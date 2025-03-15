@@ -25,3 +25,14 @@ sehingga memerlukan waktu bagi attacker/black hat untuk men-decrypt password ter
 
 ![image alt](https://github.com/AtokTajuddin/Sisop-1-2025-IT16/blob/3f6940d9ed211fb60b2d38da44cc8a6a737ef87d/Screenshot%202025-03-15%20133746.png)
 
+
+
+Soal nomor 4E & 4F
+
+1. Praktikan diminta untuk membuat error handling atau dapat disebut juga dengan exception handling, di mana fungsinya jika user memasukkan input tidak sesuai maka script akan me-return kekeliruan atau input yang tidak sesuai tersebut.
+
+![image alt](https://github.com/AtokTajuddin/Sisop-1-2025-IT16/blob/71539f32b006c4a21c413ce87e14a7efb54f4565/Screenshot%202025-03-15%20140935.png)
+
+2. Langkah selanjutnya ialah praktikan diminta untuk membuat semacem manual book supaya user dapat menetahui apa saja kegunaan script yang dijalankan.
+
+![image alt](https://github.com/AtokTajuddin/Sisop-1-2025-IT16/blob/71539f32b006c4a21c413ce87e14a7efb54f4565/Screenshot%202025-03-15%20140957.png)
