@@ -21,6 +21,7 @@ sehingga memerlukan waktu bagi attacker/black hat untuk men-decrypt password ter
 ![image alt](https://github.com/AtokTajuddin/Sisop-1-2025-IT16/blob/a00657d6cfea5875d52ccc3e994405609aea8625/Screenshot%202025-03-15%20133652.png)
 
 6. Setelah semua dirasa sudah aman & clear, praktikan diminta untuk membuat interface sebagai tempat nantinya user berada alias seperti home page.
+
 ![image alt](https://github.com/AtokTajuddin/Sisop-1-2025-IT16/blob/3f6940d9ed211fb60b2d38da44cc8a6a737ef87d/Screenshot%202025-03-15%20133716.png)
 
 ![image alt](https://github.com/AtokTajuddin/Sisop-1-2025-IT16/blob/3f6940d9ed211fb60b2d38da44cc8a6a737ef87d/Screenshot%202025-03-15%20133746.png)
