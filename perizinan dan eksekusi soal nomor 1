@@ -1,0 +1,4 @@
+setelah itu di simpan dengan cara "control + X" terus "Y" dan "Enter". 
+kita dapat mengetik bebrap perintah di dalam terminal linux 
+1. ketik "chmod +x script" untuk izin
+2. ketik "awk -f script reading_data.csv" untuk eksekusi sehingga menghasilkan output di foto berikut
