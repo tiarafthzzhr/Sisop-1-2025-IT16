@@ -55,10 +55,8 @@ if [ ! -f "$VALIDASI_CSV_FILE" ]; then
     exit 1
 fi
 
-# Shift argumen untuk memproses opsi berikutnya
 shift
 
-# Proses opsi yang diberikan
 while [ $# -gt 0 ]; do
     case "$1" in
         --filter)
